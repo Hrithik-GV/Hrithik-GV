@@ -24,13 +24,23 @@
 ## 🛠 Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logo=typescript)
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-black?style=for-the-badge&logo=css3)
+![TailwindCSS](https://img.shields.io/badge/-Tailwind%20CSS-black?style=for-the-badge&logo=tailwindcss)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=for-the-badge&logo=bootstrap)
 ![NodeJS](https://img.shields.io/badge/-Node.js-black?style=for-the-badge&logo=node.js)
 ![Express](https://img.shields.io/badge/-Express-black?style=for-the-badge&logo=express)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logo=mongodb)
 ![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react)
+![React Native](https://img.shields.io/badge/-React%20Native-black?style=for-the-badge&logo=react)
 ![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python)
+![Flask](https://img.shields.io/badge/-Flask-black?style=for-the-badge&logo=flask)
+![C](https://img.shields.io/badge/-C-black?style=for-the-badge&logo=c)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logo=mysql)
 ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
+![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=for-the-badge&logo=visualstudiocode)
+![Figma](https://img.shields.io/badge/-Figma-black?style=for-the-badge&logo=figma)
+![Canva](https://img.shields.io/badge/-Canva-black?style=for-the-badge&logo=canva)
 
 ## 📊 GitHub Stats
 
@@ -57,14 +67,17 @@
 
 ## 🚀 Featured Projects
 
-### 🏠 [Wanderlust](https://github.com/Hrithik-GV/Wanderlust)
-Airbnb-inspired booking platform using Node.js, Express & MongoDB.
+### 🎮 [PlayForge](https://github.com/Hrithik-GV/PlayForge.git)
 
-### 🤖 [HRMS AI](https://github.com/Hrithik-GV/HRMS-AI)
-AI-powered Human Resource Management System.
+An Ai powered social gaming platform where users can create share and play games using simple prompts
 
-### 🎮 [Study Quest](https://github.com/Hrithik-GV/Study-Quest)
-Gamified study RPG built with AI.
+### [HRMS](https://github.com/Hrithik-GV/-Human-Resource-Management-System.git)
+
+A modern, production-ready full-stack Human Resource Management System (HRMS)
+
+### 🤖 [PulseReview-AI](https://github.com/Hrithik-GV/PulseReview-AI.git)
+
+AI powered code review Assistant for engineering teams
 
 ## 🏆 GitHub Trophies
 
@@ -75,7 +88,9 @@ Gamified study RPG built with AI.
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hrithik-g-v-ba2683385)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](YOUR_PORTFOLIO_URL)
+[![X (Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/unk_nown_X9)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hrithik_gv/)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1540261672034508842)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hrithikgv5@gmail.com)
 
 ## 👁️ Visitor Counter
