@@ -83,12 +83,6 @@ A modern, production-ready full-stack Human Resource Management System (HRMS)
 
 AI powered code review Assistant for engineering teams
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Hrithik-GV&theme=tokyonight&no-frame=true&row=2&column=4" alt="GitHub Trophies" />
-</p>
-
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hrithik-g-v-ba2683385)
