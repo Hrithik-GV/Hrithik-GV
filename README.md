@@ -45,20 +45,20 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hrithik-GV&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hrithik-GV&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Hrithik-GV&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Hrithik-GV&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ## 🔥 Streak Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Hrithik-GV&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Hrithik-GV&theme=tokyonight" alt="GitHub Productivity & Streak" />
 </p>
 
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hrithik-GV&theme=tokyo-night" alt="Contribution Graph" />
+  <img src="https://ghchart.rshah.org/36bcf7/Hrithik-GV" alt="Contribution Graph" />
 </p>
 
 <p align="center">
