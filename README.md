@@ -55,8 +55,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Hrithik-GV&theme=tokyonight" alt="GitHub Productivity & Streak" />
 </p>
 
-## 📈 Contribution Graph
-
 <p align="center">
   <img src="https://ghchart.rshah.org/36bcf7/Hrithik-GV" alt="Contribution Graph" />
 </p>
