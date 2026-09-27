@@ -61,9 +61,9 @@
 
 An Ai powered social gaming platform where users can create share and play games using simple prompts
 
-### [HRMS](https://github.com/Hrithik-GV/-Human-Resource-Management-System.git)
+### [Whatsapp Chatbot](https://github.com/Hrithik-GV/whatsapp-chatbot)
 
-A modern, production-ready full-stack Human Resource Management System (HRMS)
+A multi-channel college support system with an embeddable website chatbot and Twilio-powered WhatsApp chatbot supporting conversation memory.
 
 ### 🤖 [PulseReview-AI](https://github.com/Hrithik-GV/PulseReview-AI.git)
 
