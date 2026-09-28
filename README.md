@@ -41,6 +41,8 @@
 ![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=for-the-badge&logo=visualstudiocode)
 ![Figma](https://img.shields.io/badge/-Figma-black?style=for-the-badge&logo=figma)
 ![Canva](https://img.shields.io/badge/-Canva-black?style=for-the-badge&logo=canva)
+![Docker](https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=docker)
+
 
 ## 📊 GitHub Stats
 
